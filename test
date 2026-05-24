@@ -1,5 +1,6 @@
 getgenv().import = function(dvcobjf)
 	if dvcobjf == "test" then
-		getgenv().stest = "ournewdvc"
+		getgenv().test = "dvc"
+		print(game.Players.LocalPlayer.Kill)
 	end
 end
