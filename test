@@ -1,6 +1,1 @@
-getgenv().import = function(dvcobjf)
-	if dvcobjf == "test" then
-		getgenv().test = "dvc"
-		print(game.Players.LocalPlayer.Kill)
-	end
-end
+print("dqs")
