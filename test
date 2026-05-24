@@ -1,0 +1,5 @@
+getgenv().import = function(dvcobjf)
+	if dvcobjf == "test" then
+		print("dvc.test")
+	end
+end
